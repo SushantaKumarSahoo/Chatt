@@ -124,7 +124,7 @@ const LoginPage = () => {
             </div>
 
             <div className="text-center space-y-3 mt-6">
-              <h2 className="text-xl font-semibold">Connect with language partners worldwide</h2>
+              <h2 className="text-xl font-semibold">Connect with coding partners worldwide</h2>
               <p className="opacity-70">
                 Practice programming, make friends, and improve your coding skills together
               </p>
